@@ -121,11 +121,6 @@ async function getPokemonsFromCache(cache) {
 
 // -------------- START -------------- //
 
-/**
- * Fonction principale
- * 
- */
-
 function main() {
   // Si le cache n'est pas vide, on affiche les pokemons du cache
   if (cache.length) {
