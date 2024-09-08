@@ -54,6 +54,8 @@ html, body {
   width: 100%;
   padding-inline: 40px;
   padding-block: 50px;
+  max-width: 1780px;
+  margin-inline: auto;
 }
 
 .search_container > .search_box {
